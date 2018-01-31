@@ -1,5 +1,5 @@
 # CSS Pseudoclasses Exercise
-The [CSS Pseudoclasses](https://github.com/nashville-software-school/ux-developer-milestones/blob/master/1-the-static-web/learning-materials/CSS_PSEUDOCLASSES.md) exercise from mileston 1
+The [CSS Pseudoclasses](https://github.com/nashville-software-school/ux-developer-milestones/blob/master/1-the-static-web/learning-materials/CSS_PSEUDOCLASSES.md) exercise from milestone 1
 ## The Why
 To understand how to change the styling of HTML elements using pseudoclasses only.
 ## The Instructions
